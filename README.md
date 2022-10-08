@@ -6,7 +6,7 @@
 
 ## 역할
 
-client : 박영준
+client : 박영준, 고겨레
 
 server : 양성원
 
