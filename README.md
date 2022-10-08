@@ -9,7 +9,6 @@
 ## 디자인
 
 - Figma
-- url : https://www.figma.com/file/UB56J0tEbTJGUNQ1eHFXM9/Untitled
 
 <img src="./img/design.png" alt="디자인" style="zoom:150%;" />
 
