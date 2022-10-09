@@ -40,7 +40,13 @@ Database
 
 - MariaDB
 
-  
+
+
+## 모델링
+
+<img src="/Users/seongwon/workspace/project/lolco/todol/document/img/modelling.png" alt="modelling" style="zoom:50%;" />
+
+
 
 ## 공모전
 
